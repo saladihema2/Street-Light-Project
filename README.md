@@ -54,3 +54,6 @@ The LDR sensor detects the intensity of surrounding light.
 ## 👩‍💻 Author
 
 Saladi Hemalatha
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](Circuit%20diagram.jpeg)
